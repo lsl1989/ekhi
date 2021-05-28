@@ -1,0 +1,1 @@
+(self.webpackChunkeasy_know_hard_insist=self.webpackChunkeasy_know_hard_insist||[]).push([[731],{7696:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/ekhi/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/ekhi/blog/tags/hola"}')}}]);
