@@ -1,0 +1,1 @@
+(self.webpackChunkeasy_know_hard_insist=self.webpackChunkeasy_know_hard_insist||[]).push([[394],{3466:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/ekhi/blog/tags","slug":"docusaurus","name":"docusaurus","count":1,"permalink":"/ekhi/blog/tags/docusaurus"}')}}]);
