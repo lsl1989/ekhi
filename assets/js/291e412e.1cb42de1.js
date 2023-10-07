@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeasy_know_hard_insist=self.webpackChunkeasy_know_hard_insist||[]).push([[436],{5264:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/ekhi/blog/tags/hello","allTagsPath":"/ekhi/blog/tags","count":2}')}}]);

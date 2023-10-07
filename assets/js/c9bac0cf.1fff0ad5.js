@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeasy_know_hard_insist=self.webpackChunkeasy_know_hard_insist||[]).push([[709],{8010:e=>{e.exports=JSON.parse('{"permalink":"/ekhi/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

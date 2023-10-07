@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeasy_know_hard_insist=self.webpackChunkeasy_know_hard_insist||[]).push([[196],{3998:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/ekhi/blog/tags/facebook","allTagsPath":"/ekhi/blog/tags","count":1}')}}]);
